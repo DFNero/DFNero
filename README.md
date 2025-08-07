@@ -13,7 +13,12 @@
 
 <hr>
 <h3>My Tech Stack</h3>
+
+<h4>Visualisation</h4>
 <p>
     <img src="https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white">
-  
+    <img src="https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white">
 </p>
+
+
+//<img src="">
