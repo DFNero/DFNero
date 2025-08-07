@@ -10,3 +10,10 @@
   <li>App development</li>
   <li>Game development</li>
 </ul>
+
+<hr>
+<h3>My Tech Stack</h3>
+<p>
+    <img src="https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white">
+  
+</p>
