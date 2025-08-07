@@ -55,5 +55,4 @@
 
 <hr>
 
-<img src="https://streak-stats.demolab.com?user=DFNero&theme=github-dark-dimmed&hide_border=true&date_format=j%2Fn%5B%2FY%5D&background=55%2C0D1117%2CFF0000">
 <!-- <img src=""> -->
