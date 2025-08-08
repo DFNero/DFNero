@@ -54,7 +54,7 @@
 </p>
 
 <hr>
-
-<img src="https://streak-stats.demolab.com?user=DFNero&theme=sea-dark&hide_border=true&date_format=j%2Fn%5B%2FY%5D">
-
+<p align="center">
+[![GitHub St(https://github-readme-streak-stats-psi-puce.vercel.app?user=DFNero&theme=prussian&background=45%2CEB0000%2C28EBE2&ring=EB6D00)](https://git.io/streak-stats)
+</p>
 <!-- <img src=""> -->
