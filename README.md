@@ -55,6 +55,6 @@
 
 <hr>
 <p align="center">
-[![GitHub Streak](https://github-readme-streak-stats-psi-puce.vercel.app?user=DFNero&theme=prussian&background=45%2CEB0000%2C28EBE2&ring=EB6D00)](https://git.io/streak-stats)
+  <img src="https://github-readme-streak-stats-psi-puce.vercel.app?user=DFNero&theme=prussian&background=45%2CEB0000%2C28EBE2&ring=EB6D00" alt="GitHub Streak" />
 </p>
 <!-- <img src=""> -->
