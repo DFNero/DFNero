@@ -10,6 +10,7 @@
   <li>Fullstack web development</li>
   <li>App development</li>
   <li>Game development</li>
+  <li>Little animator</li>
 </ul>
 
 <hr>
